@@ -1,1 +1,1 @@
-snap install vscode
+sudo snap install code
